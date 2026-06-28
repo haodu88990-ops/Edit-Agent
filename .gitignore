@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+.codebuddy/
+.workbuddy/
+__pycache__/
+node_modules/
+*.zip
+
+# 临时/调试文件
+debug_*.txt
