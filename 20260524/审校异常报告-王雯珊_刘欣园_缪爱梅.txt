@@ -1,0 +1,88 @@
+三篇论文审校异常报告
+────────────────────────────────────────────
+
+王雯珊.pdf —《类风湿关节炎患者疼痛灾难化的范围综述》
+────────────────────────────────────────────
+
+【文字错误】
+
+1. 英文摘要 "Coping Style Question" → 正确全称是 Coping Style
+   Questionnaire（CSQ = Questionnaire，不是 Question）。同一错误在正
+   文"应对策略问卷（Coping Style Question，CSQ）"中又出现一次。且该
+   量表原名是 Rosenstiel & Keefe (1983) 的 Coping Strategies
+   Questionnaire，Style 也应为 Strategies，错了两层。
+
+2. 检索策略中 "catatrophic thinking" → catastrophic thinking（缺字
+   母 s）。正文和表1各出现一次。
+
+3. 英文关键词 "Influencing factor"（单数）→ 对应中文"影响因素"为复数
+   含义，宜用 Influencing factors。
+
+4. 英文标题 "Pain catastrophizing in patients with rheumatoid
+   arthritis：a scoping review" → 冒号用了全角"："而非英文半角":"。
+
+【逻辑问题】
+
+5. 检索截止日期 2025-12-31 晚于收稿日期 2025-12-26（收稿时检索尚未结
+   束），存在时间矛盾。
+
+【参考文献中可疑点（建议确认）】
+
+6. 参考文献[13]英文 "An introduction of the JBI scoping review execution
+   process" → "An introduction of" 介词搭配存疑，通常用 "An
+   introduction to"。
+
+7. 参考文献[41]卷期号 "2(510): 840-846" 可疑，推测应为 "25(10)"。
+
+
+刘欣园.pdf —《围产期丧失母亲母乳捐赠体验质性研究的系统评价和Meta整合》
+────────────────────────────────────────────
+
+【文字错误】
+
+1. 正文讨论部分写 "Fonvile和 Perrin[34]"，但参考文献[34]作者名为
+   Fonville（双 l），正文少了一个 l。
+
+2. 英文标题大小写不一致："Systematic Review and Meta-synthesis of
+   qualitative studies..." — "qualitative" 首字母小写，而前面是
+   Title Case。
+
+
+缪爱梅.pdf —《Braden量表预测老年慢性病患者压力性损伤发生和愈合情况的研究》
+────────────────────────────────────────────
+
+【文字错误】
+
+1. 第5页 "预测PI发生情况的ACU最大" → 应为 AUC（Area Under the
+   Curve）。
+
+2. 参考文献[2]英文标题 "mnultiple chronic physical conditions" →
+   应为 multiple（多了一个 n）。
+
+3. 英文摘要 "ClassⅢ Grade A hospitals" → "Class Ⅲ" 前缺空格，应为
+   "Class Ⅲ Grade A" 或 "Class III Grade A"。
+
+【英文摘要语法】
+
+4. "with an area under the ROC curve was 0.82" → "with...was" 结构混
+   用。正确应为 "with an area...of 0.82" 或 "the area under the ROC
+   curve was 0.82"。而同一段写 PI 愈合时又用了正确的 "with an
+   area...of 0.75"，前后不一致。
+
+【数据报告问题】
+
+5. PI 部位分类不完整：正文列举4类部位共71处（尾骶部47 + 股骨大转子
+   13 + 足跟10 + 背部1），但总数为73处，差2处。表3显示"面部"有2
+   例，正文未提及。
+
+6. 分期统计口径易混淆：正文 PI 分期以73处 PI 为分母（如2期
+   30/73=41.10%），而表3 PI 分期以68例患者为分母。两者分母不同，读
+   者若不注意容易误读。
+
+【统计结果逻辑问题】
+
+7. 慢病数量与 OR 值呈非单调趋势：Logistic 回归中4种慢性病 OR=9.46、
+   5种慢性病 OR=8.80（5种反而低于4种）。讨论中称"随着慢性病数量增
+   加，PI 发生危险也明显升高"，但点估计值不支持该单调递增趋势，文中
+   未讨论这一反常。4种（n=13）和5种（n=29）的样本量差异可能造成此
+   结果，但未加说明。
